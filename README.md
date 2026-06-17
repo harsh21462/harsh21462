@@ -4,7 +4,7 @@
 
 **Associate Data Engineer · National Australia Bank**
 
-*Building distributed data systems that scale — from raw pipelines to production-grade ETL*
+*Building distributed data systems that scale - from raw pipelines to production-grade ETL*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-harsh21462-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harsh21462/)
 [![GitHub](https://img.shields.io/badge/GitHub-harsh21462-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/harsh21462)
