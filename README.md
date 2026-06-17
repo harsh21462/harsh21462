@@ -1,6 +1,6 @@
 # Hi, I'm Harsh Pandey
 
-**Software Engineer | Data Engineering | ML Systems**
+**Software Engineer | Data Engineering 
 
 I am a Computer Science graduate from **IIIT-Delhi** and currently work as an **Associate Data Engineer at National Australia Bank (NAB)**. I enjoy building reliable data platforms, scalable backend workflows, and applied machine learning systems that turn messy data into useful products.
 
