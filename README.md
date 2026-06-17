@@ -32,8 +32,6 @@ Outside of work I've done ML research, built full-stack database-backed apps, an
 - Developed **SCD Type-2** history tracking, surrogate key generation, and dimensional models aligned with IBM FSDM
 - Supported infrastructure automation via **Terraform** and **Jenkins**
 
-> 🏅 Received **NAB Q2 Spot Award** for exceptional performance and end-to-end ownership
-
 ---
 
 **ML Research Intern — Ray Lab, IIIT-Delhi** `Aug 2023 – Jan 2024`
@@ -68,8 +66,6 @@ Languages          Python · C++ · Java · C · SQL
 ---
 
 ## Achievements
-
-- 🏅 **NAB Q2 Spot Award** — exceptional performance and end-to-end ownership
 - 📊 **IIT-JEE 2021** — Top 1% among 1.5 million candidates
 - 🌍 **Amazon HackOn** — Top 5K out of 48K (Round 2 qualifier)
 - 🥉 **ML Wars Hackathon** — Top 3 finisher, IIIT-Delhi
@@ -84,9 +80,3 @@ Languages          Python · C++ · Java · C · SQL
 
 ---
 
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=harsh21462&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=harsh21462&layout=compact&theme=tokyonight&hide_border=true)
-
-</div>
