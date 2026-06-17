@@ -1,21 +1,21 @@
 # Hi, I'm Harsh Pandey
 
-**Software Engineer | Data Engineering 
+**Software Engineer | Data Engineer | ML Systems**
 
-I am a Computer Science graduate from **IIIT-Delhi** and currently work as an **Associate Data Engineer at National Australia Bank (NAB)**. I enjoy building reliable data platforms, scalable backend workflows, and applied machine learning systems that turn messy data into useful products.
+I am a Computer Science graduate from **IIIT-Delhi** and an **Associate Data Engineer at National Australia Bank (NAB)**. I work on reliable data platforms, distributed processing, SQL-heavy transformations, and applied machine learning systems.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-harsh21462-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harsh21462/)
-[![GitHub](https://img.shields.io/badge/GitHub-harshpandeyji-181717?style=flat&logo=github&logoColor=white)](https://github.com/harshpandeyji)
+[![GitHub](https://img.shields.io/badge/GitHub-harsh21462-181717?style=flat&logo=github&logoColor=white)](https://github.com/harsh21462)
 [![Email](https://img.shields.io/badge/Email-harshpandey25032003%40gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:harshpandey25032003@gmail.com)
 
 ---
 
-## About Me
+## What I Work On
 
-- Associate Data Engineer at **National Australia Bank**, working on Spark, Databricks, SQL, and production data pipelines.
-- B.Tech in **Computer Science from IIIT-Delhi**.
-- Interested in **software engineering, data engineering, distributed systems, backend development, and applied ML**.
-- Comfortable across the stack from data modeling and ETL pipelines to ML experimentation and web/database-backed applications.
+- Production data pipelines with **Spark, PySpark, Databricks, Delta Lake, and SQL**.
+- Data modeling, ETL design, data quality checks, and pipeline performance optimization.
+- Backend/database-backed applications and applied ML projects.
+- Clean, maintainable systems that are easy to reason about and improve.
 
 ---
 
@@ -30,9 +30,9 @@ I am a Computer Science graduate from **IIIT-Delhi** and currently work as an **
 
 ---
 
-## Experience Highlights
+## Experience
 
-**Associate Data Engineer | National Australia Bank**
+### Associate Data Engineer - National Australia Bank
 
 - Migrated legacy Spark pipelines to **Databricks Delta Live Tables**, redesigning Bronze-Silver-Gold ETL workflows for incremental processing.
 - Optimized distributed PySpark jobs using partition pruning, broadcast joins, Adaptive Query Execution, and Delta Lake tuning.
@@ -40,9 +40,9 @@ I am a Computer Science graduate from **IIIT-Delhi** and currently work as an **
 - Built automated data quality checks for nulls, duplicates, referential integrity, and data freshness.
 - Developed SQL transformations for banking datasets with SCD Type-2 history tracking, surrogate keys, and dimensional models.
 
-**ML Research Intern | Ray Lab, IIIT-Delhi**
+### ML Research Intern - Ray Lab, IIIT-Delhi
 
-- Built ML models for network inference on sparse datasets with Random Forest, XGBoost, KNN, MICE imputation, and NMF.
+- Built ML models for network inference on sparse datasets using Random Forest, XGBoost, KNN, MICE imputation, and NMF.
 - Used PCA for dimensionality reduction and Python visualization tools for analysis.
 - Developed a back-projection methodology that improved model training speed significantly without information loss.
 
@@ -50,12 +50,10 @@ I am a Computer Science graduate from **IIIT-Delhi** and currently work as an **
 
 ## Featured Projects
 
-These projects currently live on my earlier academic GitHub account while I consolidate my work here.
-
 ### [Insta-Cab](https://github.com/harsh21462/Insta-Cab)
 Cab booking system prototype using **HTML, CSS, JavaScript, and SQL**.
 
-- Designed ER diagrams and relational schema for core booking workflows.
+- Designed ER diagrams and relational schema for booking workflows.
 - Implemented joins, window functions, nested queries, and stored procedures.
 - Focused on database design, query efficiency, and user-facing booking flows.
 
