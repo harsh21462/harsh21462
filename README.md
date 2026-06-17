@@ -1,102 +1,92 @@
-# Hi, I'm Harsh Pandey
+<div align="center">
 
-**Software Engineer | Data Engineer | ML Systems**
+# Harsh Pandey
 
-I am a Computer Science graduate from **IIIT-Delhi** and an **Associate Data Engineer at National Australia Bank (NAB)**. I work on reliable data platforms, distributed processing, SQL-heavy transformations, and applied machine learning systems.
+**Associate Data Engineer · National Australia Bank**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-harsh21462-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harsh21462/)
-[![GitHub](https://img.shields.io/badge/GitHub-harsh21462-181717?style=flat&logo=github&logoColor=white)](https://github.com/harsh21462)
-[![Email](https://img.shields.io/badge/Email-harshpandey25032003%40gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:harshpandey25032003@gmail.com)
+*Building distributed data systems that scale — from raw pipelines to production-grade ETL*
 
----
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-harsh21462-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harsh21462/)
+[![GitHub](https://img.shields.io/badge/GitHub-harsh21462-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/harsh21462)
+[![Email](https://img.shields.io/badge/Email-harshpandey25032003%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:harshpandey25032003@gmail.com)
 
-## What I Work On
-
-- Production data pipelines with **Spark, PySpark, Databricks, Delta Lake, and SQL**.
-- Data modeling, ETL design, data quality checks, and pipeline performance optimization.
-- Backend/database-backed applications and applied ML projects.
-- Clean, maintainable systems that are easy to reason about and improve.
+</div>
 
 ---
 
-## Tech Stack
+## About
 
-**Languages:** Python, C++, Java, C, SQL  
-**Data Engineering:** Apache Spark, PySpark, Databricks, Delta Lake, Delta Live Tables, ETL, Data Quality  
-**Cloud & DevOps:** AWS, Terraform, Jenkins  
-**ML & Data Science:** Scikit-learn, XGBoost, TensorFlow, Pandas, NumPy  
-**Databases:** SQL, NoSQL, DBMS, dimensional modeling, SCD Type-2  
-**Core CS:** Data Structures & Algorithms, Operating Systems, Machine Learning, NLP, Big Data Mining
+CS graduate from **IIIT-Delhi**. I work on data engineering at NAB — migrating legacy Spark pipelines to Databricks, building ETL workflows, optimizing distributed PySpark jobs, and making sure banking data is clean, reliable, and on time.
+
+Outside of work I've done ML research, built full-stack database-backed apps, and competed in hackathons.
 
 ---
 
 ## Experience
 
-### Associate Data Engineer - National Australia Bank
+**Associate Data Engineer — National Australia Bank** `Aug 2025 – Present`
 
-- Migrated legacy Spark pipelines to **Databricks Delta Live Tables**, redesigning Bronze-Silver-Gold ETL workflows for incremental processing.
-- Optimized distributed PySpark jobs using partition pruning, broadcast joins, Adaptive Query Execution, and Delta Lake tuning.
-- Reduced critical pipeline runtime from **12+ hours to under 1 hour**.
-- Built automated data quality checks for nulls, duplicates, referential integrity, and data freshness.
-- Developed SQL transformations for banking datasets with SCD Type-2 history tracking, surrogate keys, and dimensional models.
+- Migrated legacy Spark pipelines to **Databricks Delta Live Tables**, redesigning Bronze–Silver–Gold ETL workflows with incremental processing
+- Reduced critical pipeline runtime from **12+ hours → under 1 hour** through partition pruning, broadcast joins, and Adaptive Query Execution
+- Built automated data-quality frameworks covering nulls, duplicates, referential integrity, and freshness checks using SQL and PySpark
+- Developed **SCD Type-2** history tracking, surrogate key generation, and dimensional models aligned with IBM FSDM
+- Supported infrastructure automation via **Terraform** and **Jenkins**
 
-### ML Research Intern - Ray Lab, IIIT-Delhi
-
-- Built ML models for network inference on sparse datasets using Random Forest, XGBoost, KNN, MICE imputation, and NMF.
-- Used PCA for dimensionality reduction and Python visualization tools for analysis.
-- Developed a back-projection methodology that improved model training speed significantly without information loss.
+> 🏅 Received **NAB Q2 Spot Award** for exceptional performance and end-to-end ownership
 
 ---
 
-## Featured Projects
+**ML Research Intern — Ray Lab, IIIT-Delhi** `Aug 2023 – Jan 2024`
 
-### [Insta-Cab](https://github.com/harsh21462/Insta-Cab)
-Cab booking system prototype using **HTML, CSS, JavaScript, and SQL**.
+- Built ML models for network inference on sparse datasets using Random Forest, **XGBoost**, KNN, MICE imputation, and NMF — 30% improvement in decision-making quality
+- Applied **PCA** for 50% dimensionality reduction; reduced dataset noise by 25%
+- Designed a back-projection methodology that sped up model training by **100×** without information loss
 
-- Designed ER diagrams and relational schema for booking workflows.
-- Implemented joins, window functions, nested queries, and stored procedures.
-- Focused on database design, query efficiency, and user-facing booking flows.
+---
 
-### [Network-Inference-Project](https://github.com/harsh21462/Network-Inference-Project)
-Machine learning research project for network inference on sparse datasets.
+## Projects
 
-- Applied PCA, imputation, Random Forest, XGBoost, KNN, and NMF.
-- Focused on sparse-data preprocessing, noise reduction, and model training efficiency.
+| Project | Stack | Description |
+|---|---|---|
+| [**Insta-Cab**](https://github.com/harsh21462/Insta-Cab) | SQL · HTML · CSS · JS | Cab booking system with ER-modeled schema, window functions, stored procedures |
+| [**Network-Inference**](https://github.com/harsh21462/Network-Inference-Project) | Python · XGBoost · PCA | Sparse dataset ML pipeline for network inference research |
+| [**Survival-Prediction**](https://github.com/harsh21462/Survival-Prediction) | Python · Scikit-learn | Ensemble ML model for structured clinical data, 94% accuracy |
+| [**Tank-Star**](https://github.com/harsh21462/Tank-Star) | Java · LibGDX · JUnit | OOP-designed game with Box2D physics, tested with 20+ unit tests |
 
-### [Survival-Prediction](https://github.com/harsh21462/Survival-Prediction)
-Machine learning project for survival prediction using structured clinical-style data.
+---
 
-- Worked on preprocessing, feature handling, and ensemble modeling.
-- Used Python, NumPy, Pandas, and ML algorithms for predictive analysis.
+## Stack
 
-### [Tank-Star](https://github.com/harsh21462/Tank-Star)
-Java game project built with object-oriented design principles.
-
-- Designed gameplay components using Java, OOP, and class-based architecture.
-- Practiced software design, testing, and game-state management.
+```
+Data Engineering   Spark · PySpark · Databricks · Delta Lake · Delta Live Tables · ETL · SCD Type-2
+Cloud & DevOps     AWS · Terraform · Jenkins
+Databases          SQL · NoSQL · Dimensional Modeling · DBMS
+ML & Data Science  Scikit-learn · XGBoost · TensorFlow · Pandas · NumPy
+Languages          Python · C++ · Java · C · SQL
+```
 
 ---
 
 ## Achievements
 
-- Received **NAB Q2 Spot Award** for performance, initiative, and end-to-end ownership.
-- IIT-JEE 2021: ranked in the **top 1%** among 1.5M candidates.
-- Cleared **Amazon HackOn** Round 2, top 5K out of 48K participants.
-- Top 3 finisher in **ML Wars Hackathon** organized by IIIT-Delhi.
+- 🏅 **NAB Q2 Spot Award** — exceptional performance and end-to-end ownership
+- 📊 **IIT-JEE 2021** — Top 1% among 1.5 million candidates
+- 🌍 **Amazon HackOn** — Top 5K out of 48K (Round 2 qualifier)
+- 🥉 **ML Wars Hackathon** — Top 3 finisher, IIIT-Delhi
 
 ---
 
 ## Certifications
 
-- **AWS Cloud Practitioner Essentials** - AWS, 2026
-- **Databricks Fundamentals** - Databricks, 2025
-- **JPMorgan Chase CADP Virtual Experience** - Forage, 2024
+- [AWS Cloud Practitioner Essentials](https://drive.google.com/file/d/1KQkwvJ-uk_sgP9n1Av2UlQ71QM6CHxKz/view?usp=sharing) — AWS · 2026
+- [Databricks Fundamentals](https://credentials.databricks.com/bc383533-aaab-4bca-8335-48e305c081d3#acc.b5HUozYc) — Databricks · 2025
+- [JPMorgan Chase CADP Virtual Experience](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/JPMorgan%20Chase%20Corporate/4dy5SP43KMPppKz2i_JPMorgan%20Chase%20&%20Co._QdqKDfWXXLevsQrnc_1727318612112_completion_certificate.pdf) — Forage · 2024
 
 ---
 
-## Contact
+<div align="center">
 
-I am open to software engineering, data engineering, and machine learning engineering opportunities.
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=harsh21462&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=harsh21462&layout=compact&theme=tokyonight&hide_border=true)
 
-- LinkedIn: [linkedin.com/in/harsh21462](https://www.linkedin.com/in/harsh21462/)
-- Email: [harshpandey25032003@gmail.com](mailto:harshpandey25032003@gmail.com)
+</div>
