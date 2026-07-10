@@ -16,7 +16,7 @@
 
 ## About
 
-CS graduate from **IIIT-Delhi**. I work on data engineering at NAB — migrating legacy Spark pipelines to Databricks, building ETL workflows, optimizing distributed PySpark jobs, and making sure banking data is clean, reliable, and on time.
+CS graduate from **IIIT-Delhi**. I work in data engineering at NAB — migrating legacy Spark pipelines to Databricks, building ETL workflows, optimizing distributed PySpark jobs, and ensuring banking data is clean, reliable, and on time.
 
 Outside of work I've done ML research, built full-stack database-backed apps, and competed in hackathons.
 
