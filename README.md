@@ -8,6 +8,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-harsh21462-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harsh21462/)
 [![GitHub](https://img.shields.io/badge/GitHub-harsh21462-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/harsh21462)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Live%20Site-000000?style=flat-square&logo=vercel&logoColor=white)](https://harsh21462.vercel.app/)
 [![Email](https://img.shields.io/badge/Email-harshpandey25032003%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:harshpandey25032003@gmail.com)
 
 </div>
