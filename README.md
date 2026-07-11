@@ -4,7 +4,7 @@
 
 **Associate Data Engineer · National Australia Bank**
 
-*Building distributed data systems that scale - from raw pipelines to production-grade ETL*
+*Building reliable data platforms with Spark, Databricks, SQL, and production-grade ETL*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-harsh21462-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harsh21462/)
 [![GitHub](https://img.shields.io/badge/GitHub-harsh21462-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/harsh21462)
@@ -16,7 +16,7 @@
 
 ## About
 
-CS graduate from **IIIT-Delhi**. I work in data engineering at NAB — migrating legacy Spark pipelines to Databricks, building ETL workflows, optimizing distributed PySpark jobs, and ensuring banking data is clean, reliable, and on time.
+CS graduate from **IIIT-Delhi**. I work in data engineering at NAB — migrating legacy Spark pipelines to Databricks, building ETL workflows, optimizing distributed PySpark jobs, and keeping banking data clean, reliable, and on time.
 
 Outside of work I've done ML research, built full-stack database-backed apps, and competed in hackathons.
 
@@ -46,6 +46,7 @@ Outside of work I've done ML research, built full-stack database-backed apps, an
 
 | Project | Stack | Description |
 |---|---|---|
+| [**Retail Lakehouse Pipeline**](https://github.com/harsh21462/retail-lakehouse-pipeline) | Python · SQL · Pytest · GitHub Actions | Bronze-silver-gold retail analytics pipeline with data quality checks, SQL gold models, manifests, and CI |
 | [**Insta-Cab**](https://github.com/harsh21462/Insta-Cab) | SQL · HTML · CSS · JS | Cab booking system with ER-modeled schema, window functions, stored procedures |
 | [**Network-Inference**](https://github.com/harsh21462/Network-Inference-Project) | Python · XGBoost · PCA | Sparse dataset ML pipeline for network inference research |
 | [**Survival-Prediction**](https://github.com/harsh21462/Survival-Prediction) | Python · Scikit-learn | Ensemble ML model for structured clinical data, 94% accuracy |
@@ -57,7 +58,7 @@ Outside of work I've done ML research, built full-stack database-backed apps, an
 
 ```
 Data Engineering   Spark · PySpark · Databricks · Delta Lake · Delta Live Tables · ETL · SCD Type-2
-Cloud & DevOps     AWS · Terraform · Jenkins
+Cloud & DevOps     AWS · Terraform · Jenkins · GitHub Actions
 Databases          SQL · NoSQL · Dimensional Modeling · DBMS
 ML & Data Science  Scikit-learn · XGBoost · TensorFlow · Pandas · NumPy
 Languages          Python · C++ · Java · C · SQL
